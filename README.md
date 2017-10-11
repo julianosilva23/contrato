@@ -17,6 +17,8 @@ Etapas
     1.2.1 - Paredes
     
     1.2.2 - Fundo
+    
+    12.2.1 - Parallax
   
   
   1.3 - Inimigos - 15/10
