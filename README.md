@@ -21,21 +21,21 @@ Etapas
       12.2.1 - Parallax
   
   
-  1.3 - Inimigos - 15/10
+  1.3 - Inimigos - 15/10 - Concluido
   
     1.3.1 - Fogo
     
     1.3.2 - Monstros
     
     
-  1.4 - Interação com Objetos - 15/10   
+  1.4 - Interação com Objetos - 25/10   
   
     1.4.2 - Baldes de Água
     
     1.4.3 - Contrato    
     
     
-2 - Movimento
+2 - Movimento - Concluido
 
   2.1 - Personagem
     
