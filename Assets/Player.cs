@@ -7,12 +7,17 @@ public class Player : MonoBehaviour {
 	[System.Serializable]
 
 	public class PlayerStats{
-		public int Helth = 100;	
+		public int Health = 100;	
 	}
 
-	public PlayerStats playerStats = new PlayerStats ();
+	public PlayerStats stats = new PlayerStats ();
 
 	public int fallBoundary = -20;
+
+	[SerializeField]
+
+	void Start(){
+	}
 
 	void Update(){
 		if (transform.position.y <= fallBoundary) {
@@ -21,8 +26,8 @@ public class Player : MonoBehaviour {
 	}
 
 	public void DamagePlayer (int damage){
-		playerStats.Helth -= damage;
-		if (playerStats.Helth <= 0) {
+		stats.Health -= damage;
+		if (stats.Health <= 0) {
 			GameMaster.KillPlayer (this);
 		}
 	}

@@ -47,16 +47,30 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Camera2DFollow.cs" />
+     <Compile Include="Assets\CameraShake.cs" />
+     <Compile Include="Assets\EnemyIA.cs" />
      <Compile Include="Assets\GameMaster.cs" />
+     <Compile Include="Assets\Inimigo.cs" />
      <Compile Include="Assets\Parallaxing.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
      <Compile Include="Assets\Tiling.cs" />
+     <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\Navmesh.cginc" />
+     <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\Navmesh.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\DotNetZip\DotNetZipLicense.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\DiffuseAlwaysVisible.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\dependencies.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\_Example Scenes.txt" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Readme_upgrading.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\Projector Light.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\Readme.txt" />
      <None Include="Assets\Note about Editor Folder.txt" />
+     <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\NavmeshOutline.shader" />
+     <None Include="Assets\Plugins\AstarPathfindingProject\link.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -77,6 +91,9 @@
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+ <HintPath>C:/Users/Lucas/Documents/Contrato/Assets/Plugins/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
