@@ -60,7 +60,8 @@ Etapas
 
 3 - Animação 
 
-3.1 - Sprites
+  3.1 - Sprites
+
 
 4 - Camera
 
