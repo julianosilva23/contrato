@@ -12,7 +12,7 @@ Etapas
     1.1.2 - Fantasma
    
    
-  1.2 - Cenário - 11/10 - Concluido
+  1.2 - Cenário - 11/10 - Concluido Parcialmente
   
     1.2.1 - Paredes
     
@@ -38,8 +38,29 @@ Etapas
 2 - Movimento - Concluido
 
   2.1 - Personagem
+  
+    2.1.1 Modo Humano
+  
+    2.1.2 Modo Fantasma
+  
     
   2.2 - Inimigos
+  
+  2.2.1 - Fantasma Perseguidor
+  
+    2.2.1.2 - Inserir dois fantasma perseguindo com uma trigger
+    
+  
+  2.3 Plataforma
+  
+    2.3.1 - Movimento Circular
+  
+    2.3.2 - Movimento Cima/Baixo
 
 
-3 - Animação -
+3 - Animação 
+
+3.1 - Sprites
+
+4 - Camera
+
