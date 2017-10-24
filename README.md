@@ -48,7 +48,7 @@ Etapas
   
   2.2.1 - Fantasma Perseguidor
   
-    2.2.1.2 - Inserir dois fantasma perseguindo com uma trigger
+    2.2.1.1 - Inserir dois fantasma perseguindo com uma trigger
     
   
   2.3 Plataforma
